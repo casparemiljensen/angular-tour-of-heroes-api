@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lEK6yYDoDfMR097r9fd6K3SBzeN/AWppRlsgcEOVAMY=",
+  "Source": "angular-tour-of-heroes-api",
+  "BasePath": "_content/angular-tour-of-heroes-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

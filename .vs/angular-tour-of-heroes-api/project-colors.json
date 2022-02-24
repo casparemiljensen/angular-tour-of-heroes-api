@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a8a6a736-5a43-4cec-9247-8dc216794b49": {
+      "ProjectGuid": "a8a6a736-5a43-4cec-9247-8dc216794b49",
+      "DisplayName": "angular-tour-of-heroes-api",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
